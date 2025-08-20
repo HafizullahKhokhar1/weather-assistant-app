@@ -1,0 +1,94 @@
+# Streamlit Configuration for Weather Dashboard
+# Place this file in .streamlit/config.toml
+
+[global]
+# Set to false to disable the development mode warning
+developmentMode = false
+
+# Set to false to suppress deprecation warnings
+showWarningOnDirectExecution = false
+
+[server]
+# Port where the app will run
+port = 8501
+
+# Set to true to enable CORS (Cross Origin Resource Sharing)
+enableCORS = false
+
+# Set to true to enable XSS protection
+enableXsrfProtection = true
+
+# Maximum file upload size in MB
+maxUploadSize = 50
+
+# Maximum message size in MB for WebSocket connections
+maxMessageSize = 50
+
+# Enable WebSocket compression
+enableWebsocketCompression = true
+
+# Server address (use 0.0.0.0 for all interfaces)
+address = "0.0.0.0"
+
+# Base URL path
+baseUrlPath = ""
+
+# Automatically open browser when starting the app
+headless = false
+
+# Run the server in headless mode
+runOnSave = false
+
+# Allow WebSocket connections from different origins
+allowRunOnSave = true
+
+[browser]
+# Automatically open the app in browser
+gatherUsageStats = false
+
+# Server address for browser
+serverAddress = "localhost"
+
+# Server port for browser
+serverPort = 8501
+
+[theme]
+# Primary color (blue)
+primaryColor = "#4A90E2"
+
+# Background color (dark blue gradient)
+backgroundColor = "#1e3c72"
+
+# Secondary background color (slightly lighter)
+secondaryBackgroundColor = "#2a5298"
+
+# Text color (white)
+textColor = "#FFFFFF"
+
+# Font family
+font = "sans serif"
+
+[ui]
+# Hide the hamburger menu
+hideTopBar = false
+
+# Hide the footer
+hideFooterDetails = false
+
+# Sidebar state on load
+sidebarState = "expanded"
+
+# Wide mode by default
+wideMode = true
+
+# Initial sidebar state
+initialSidebarState = "expanded"
+
+[mapbox]
+# Add your Mapbox token here if you plan to use maps
+# token = "your_mapbox_token_here"
+
+[deprecation]
+# Show deprecation warnings
+showfileUploaderEncoding = false
+showPyplotGlobalUse = false

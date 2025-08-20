@@ -1,0 +1,47 @@
+MIT License
+
+Copyright (c) 2025 hafizullahkhokhar1
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional Notes
+
+### About the Developer
+This Weather Assistant App was developed by hafizullahkhokhar1 as an open-source project to provide a beautiful, functional weather application for desktop users worldwide, with special attention to Pakistani weather patterns and travel safety.
+
+### Third-Party Services
+This software uses the following third-party services:
+- OpenWeatherMap API for weather data
+- IPInfo.io for location detection
+
+Users are responsible for obtaining their own API keys for production use and complying with the terms of service of these providers.
+
+### Contributions
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page and contribute to the project.
+
+### Contact
+- GitHub: https://github.com/hafizullahkhokhar1
+- Email: hafizullahkhokhar1@gmail.com
+
+### Disclaimer
+This software is provided for informational purposes only. Weather data is provided by third-party services and the accuracy cannot be guaranteed. Users should not rely solely on this application for critical weather-related decisions.
+
+For official weather warnings and alerts, please consult your local meteorological service.
