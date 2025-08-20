@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
+*.pyc
 
 # Virtual env
 .venv/
@@ -20,3 +21,7 @@ Thumbs.db
 # Secrets
 .env
 *.env
+
+# Ignore packaging scripts
+setup.py
+run.py
