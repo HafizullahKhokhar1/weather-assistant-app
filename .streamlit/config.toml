@@ -67,28 +67,3 @@ textColor = "#FFFFFF"
 
 # Font family
 font = "sans serif"
-
-[ui]
-# Hide the hamburger menu
-hideTopBar = false
-
-# Hide the footer
-hideFooterDetails = false
-
-# Sidebar state on load
-sidebarState = "expanded"
-
-# Wide mode by default
-wideMode = true
-
-# Initial sidebar state
-initialSidebarState = "expanded"
-
-[mapbox]
-# Add your Mapbox token here if you plan to use maps
-# token = "your_mapbox_token_here"
-
-[deprecation]
-# Show deprecation warnings
-showfileUploaderEncoding = false
-showPyplotGlobalUse = false
